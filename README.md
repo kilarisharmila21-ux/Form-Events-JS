@@ -1,2 +1,2 @@
 # Form-Events-JS
-Form events using javascript.
+JavaScript Form Events with practical examples and event handling
